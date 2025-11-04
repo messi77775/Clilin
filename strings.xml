@@ -1,207 +1,206 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Puerto">Puerto SSH e SSL</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
+    <string name="Puerto">منفذ SSH و SSL</string>
+    <string name="abc_action_bar_up_description">التصفح للأعلى</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">دخول</string>
+    <string name="abc_menu_function_shortcut_label">وظيفة+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">مسافة</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
-    <string name="abc_search_hint">Search…</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="activar_wifi_shared">Enable Wifi Shared</string>
-    <string name="actived">Active</string>
-    <string name="ad_unavailable">Ad not available at this time</string>
-    <string name="ads_finished">Thank you for supporting our app💙</string>
-    <string name="alert_app_on_latest">Your app is at the latest version</string>
-    <string name="alert_block_settings">Configuration lock does not guarantee 100% security</string>
-    <string name="alert_clear_settings">Are you sure you want to restore the default settings?</string>
-    <string name="alert_delete_file">Do you want to delete this file?</string>
-    <string name="alert_exit">Are you sure you want to quit?</string>
-    <string name="alert_update_app">Install the latest version</string>
-    <string name="alert_update_app_now">Update your app now!</string>
-    <string name="alert_update_error">"An error occurred while verifying the update. Please contact the developer.
-"</string>
+    <string name="abc_prepend_shortcut_label">قائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">مسح الاستعلام</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال الاستعلام</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_toolbar_collapse_description">طي</string>
+    <string name="activar_wifi_shared">تفعيل مشاركة الواي فاي</string>
+    <string name="actived">مفعل</string>
+    <string name="ad_unavailable">الإعلان غير متاح في هذا الوقت</string>
+    <string name="ads_finished">شكراً لدعمكم تطبيقنا💙</string>
+    <string name="alert_app_on_latest">تطبيقك على أحدث نسخة</string>
+    <string name="alert_block_settings">قفل الإعدادات لا يضمن الأمان بنسبة 100%</string>
+    <string name="alert_clear_settings">هل أنت متأكد من استعادة الإعدادات الافتراضية؟</string>
+    <string name="alert_delete_file">هل تريد حذف هذا الملف؟</string>
+    <string name="alert_exit">هل أنت متأكد من الخروج؟</string>
+    <string name="alert_update_app">تثبيت أحدث نسخة</string>
+    <string name="alert_update_app_now">حدث تطبيقك الآن!</string>
+    <string name="alert_update_error">حدث خطأ أثناء التحقق من التحديث. يرجى الاتصال بالمطور.</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_description">SocksHttp is an SSH TUNNEL client, designed to bypass local blocking and censorship on the network.</string>
-    <string name="app_mobile_info">Versión de la aplicación: %1$s %2$s</string>
-    <string name="app_name">MSY VPN CUSTOM</string>
+    <string name="app_description">SocksHttp هو عميل نفق SSH، مصمم لتجاوز الحظر المحلي والرقابة على الشبكة.</string>
+    <string name="app_mobile_info">إصدار التطبيق: %1$s %2$s</string>
+    <string name="app_name">MSY VPN مخصص</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="arrow">Arrow</string>
-    <string name="attention">Attention</string>
-    <string name="auth_message">Complete with SSH account details</string>
-    <string name="auth_username">Username</string>
-    <string name="auto_ping">Auto Ping</string>
-    <string name="background_image_desc">Imagen de fondo</string>
-    <string name="blocked">Locked</string>
+    <string name="arrow">سهم</string>
+    <string name="attention">انتباه</string>
+    <string name="auth_message">أكمل تفاصيل حساب SSH</string>
+    <string name="auth_username">اسم المستخدم</string>
+    <string name="auto_ping">بينغ تلقائي</string>
+    <string name="background_image_desc">صورة الخلفية</string>
+    <string name="blocked">مقفل</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
-    <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
-    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
-    <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
-    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
-    <string name="bypass">Bypass</string>
-    <string name="bypass_icon">Ícono de bypass</string>
-    <string name="call_notification_answer_action">Answer</string>
-    <string name="call_notification_answer_video_action">Video</string>
-    <string name="call_notification_decline_action">Decline</string>
-    <string name="call_notification_hang_up_action">Hang Up</string>
-    <string name="call_notification_incoming_text">Incoming call</string>
-    <string name="call_notification_ongoing_text">Ongoing call</string>
-    <string name="call_notification_screening_text">Screening an incoming call</string>
-    <string name="cancel">Cancelar</string>
-    <string name="card_content_descriptor">card</string>
-    <string name="category_advanced_settings">Advanced Settings</string>
+    <string name="bottomsheet_action_collapse">طي الورقة السفلية</string>
+    <string name="bottomsheet_action_expand">توسيع الورقة السفلية</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع للنصف</string>
+    <string name="bottomsheet_drag_handle_clicked">النقر المزدوج على مقبض السحب</string>
+    <string name="bottomsheet_drag_handle_content_description">مقبض السحب</string>
+    <string name="bypass">تجاوز</string>
+    <string name="bypass_icon">أيقونة التجاوز</string>
+    <string name="call_notification_answer_action">رد</string>
+    <string name="call_notification_answer_video_action">فيديو</string>
+    <string name="call_notification_decline_action">رفض</string>
+    <string name="call_notification_hang_up_action">إنهاء</string>
+    <string name="call_notification_incoming_text">مكالمة واردة</string>
+    <string name="call_notification_ongoing_text">مكالمة جارية</string>
+    <string name="call_notification_screening_text">فحص مكالمة واردة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="card_content_descriptor">بطاقة</string>
+    <string name="category_advanced_settings">الإعدادات المتقدمة</string>
     <string name="category_filter_apps" />
-    <string name="category_forward_dns">DNS Forwarding</string>
-    <string name="category_forward_port">Port Forwarding</string>
-    <string name="category_forward_udp">Udp forwarding</string>
-    <string name="category_settings_adicionais">Additional configurations</string>
-    <string name="category_tunnel">Tunnel</string>
-    <string name="category_user_interface">User Interface</string>
-    <string name="channel_description_background">Ongoing statistics of the established SocksHttp connection</string>
-    <string name="channel_description_status">Status changes of the SocksHttp connection (Connecting, authenticating,…)</string>
-    <string name="channel_description_userreq">SocksHttp connection requires a user input, e.g. two factor authentification</string>
-    <string name="channel_name_background">Connection statistics</string>
-    <string name="channel_name_status">Connection status change</string>
-    <string name="channel_name_userreq">User interaction required</string>
-    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
-    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="category_forward_dns">توجيه DNS</string>
+    <string name="category_forward_port">توجيه المنفذ</string>
+    <string name="category_forward_udp">توجيه UDP</string>
+    <string name="category_settings_adicionais">تهيئات إضافية</string>
+    <string name="category_tunnel">النفق</string>
+    <string name="category_user_interface">واجهة المستخدم</string>
+    <string name="channel_description_background">إحصائيات مستمرة لاتصال SocksHttp المثبت</string>
+    <string name="channel_description_status">تغييرات حالة اتصال SocksHttp (جاري الاتصال، مصادقة،…)</string>
+    <string name="channel_description_userreq">اتصال SocksHttp يتطلب إدخال مستخدم، مثل المصادقة الثنائية</string>
+    <string name="channel_name_background">إحصائيات الاتصال</string>
+    <string name="channel_name_status">تغيير حالة الاتصال</string>
+    <string name="channel_name_userreq">يتطلب تفاعل المستخدم</string>
+    <string name="character_counter_content_description">تم إدخال %1$d حرف من %2$d</string>
+    <string name="character_counter_overflowed_content_description">تم تجاوز حد الأحرف %1$d من %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
-    <string name="check_block_root">Block rooted device</string>
-    <string name="check_date_valid">Set Expiration Date</string>
-    <string name="check_only_network_mobile">Mobile data network only</string>
-    <string name="check_protect">Lock configuration and prevent editing</string>
-    <string name="check_show_login_start">Show Login at Home</string>
-    <string name="clear_logs">Clear Logs</string>
-    <string name="clear_settings">Clear Settings/Data</string>
-    <string name="clear_text_end_icon_content_description">Clear text</string>
-    <string name="close">Close</string>
+    <string name="check_block_root">حظر الجهاز root</string>
+    <string name="check_date_valid">تعيين تاريخ الانتهاء</string>
+    <string name="check_only_network_mobile">شبكة البيانات الخلوية فقط</string>
+    <string name="check_protect">قفل التهيئة ومنع التعديل</string>
+    <string name="check_show_login_start">عرض تسجيل الدخول في الصفحة الرئيسية</string>
+    <string name="clear_logs">مسح السجلات</string>
+    <string name="clear_settings">مسح الإعدادات/البيانات</string>
+    <string name="clear_text_end_icon_content_description">مسح النص</string>
+    <string name="close">إغلاق</string>
     <string name="com.google.firebase.crashlytics.mapping_file_id">612639ca2a3e44518824bff6d947b2df</string>
-    <string name="common_google_play_services_enable_button">Enable</string>
-    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
-    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
-    <string name="common_google_play_services_install_button">Install</string>
-    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
-    <string name="common_google_play_services_install_title">Get Google Play services</string>
-    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
-    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
-    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
-    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
-    <string name="common_google_play_services_update_button">Update</string>
-    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
-    <string name="common_google_play_services_update_title">Update Google Play services</string>
-    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
-    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
-    <string name="common_open_on_phone">Open on phone</string>
-    <string name="common_signin_button_text">Sign in</string>
-    <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="compression_icon">Ícono de compresión</string>
-    <string name="config">Configuration</string>
-    <string name="config_deleted_expired">La configuración expirada ha sido eliminada</string>
-    <string name="config_expired">La configuración ha expirado</string>
-    <string name="config_expired_message">Mensaje de configuración caducada</string>
-    <string name="config_expired_title">Título caducado de la configuración</string>
-    <string name="config_expires_in">La configuración expira en %s</string>
-    <string name="config_msg">Mensaje de configuración (compatible con HTML)</string>
-    <string name="config_msg_input">Establecer mensaje de configuración</string>
-    <string name="config_validity">Validez de la configuración</string>
-    <string name="connected">Conectado</string>
-    <string name="custom_pinger_host">Host personalizado para ping</string>
-    <string name="day">día</string>
-    <string name="days">días</string>
-    <string name="debug_icon">Ícono de depuración</string>
-    <string name="def_value">HTTP Proxy (eg: Squid,Websocket)</string>
-    <string name="delay_icon">Ícono de retraso</string>
-    <string name="dir_home_name">Internal memory</string>
-    <string name="dir_name">Folder</string>
-    <string name="direct">SSH → Direct</string>
-    <string name="direct_sharing">Compartir Directo</string>
-    <string name="disable_delay">Desactivar retraso SSH</string>
-    <string name="disabled">Disabled</string>
-    <string name="disconnected">Desconectado</string>
-    <string name="dns_forward">Reenvío DNS</string>
-    <string name="dns_icon">Ícono de DNS</string>
-    <string name="dns_resolver_1">Servidor DNS primario</string>
-    <string name="dns_resolver_2">Servidor DNS secundario</string>
-    <string name="dns_resolver_3">Servidor DNS terciario</string>
-    <string name="dns_resolver_4">Servidor DNS cuaternario</string>
-    <string name="dns_resolver_5">Servidor DNS sextenario</string>
-    <string name="dns_resolver_6">Servidor DNS septenario</string>
-    <string name="download">Download</string>
-    <string name="dropdown">Dropdown</string>
-    <string name="empty_login">Seu login está vacío!</string>
-    <string name="enable_tethering">Habilitar tethering (sin root)</string>
-    <string name="enable_tethering_root">Habilitar tethering (root)</string>
-    <string name="erro_save_file">¡Error al guardar el archivo de configuración!</string>
-    <string name="error_a11y_label">Error: invalid</string>
-    <string name="error_date_selected_invalid">La fecha seleccionada no es válida</string>
-    <string name="error_decrypt_config">Error al desencriptar la configuración</string>
-    <string name="error_delete_file">Failed to delete file</string>
-    <string name="error_empty_name_file">File name must not be empty</string>
-    <string name="error_empty_payload">Payload cannot be empty</string>
-    <string name="error_empty_settings">Configure correctly to start</string>
-    <string name="error_export_settings">"Couldn't export configuration"</string>
-    <string name="error_file_config_incompatible">File not compatible</string>
-    <string name="error_file_invalid">Invalid File</string>
-    <string name="error_file_not_found">File not found</string>
-    <string name="error_file_settings_invalid">Invalid configuration</string>
-    <string name="error_icon_content_description">Error</string>
-    <string name="error_internet_off">Please connect to the internet</string>
-    <string name="error_invalid_settings">Invalid configuration</string>
-    <string name="error_no_supported">Function not supported on your device</string>
-    <string name="error_occurred">Ocurrió un error</string>
-    <string name="error_permission_writer_required">Write permission is required</string>
-    <string name="error_proxy_invalid">Invalid proxy</string>
-    <string name="error_request_permission">You need access to External Storage</string>
-    <string name="error_root_detected">Locked configuration for devices with root access</string>
-    <string name="error_save_settings">"Couldn't save configuration"</string>
-    <string name="error_server_ip_invalid">Invalid server/IP</string>
-    <string name="error_settings_blocked">Locked configuration</string>
-    <string name="error_settings_expired">Expired file</string>
-    <string name="error_tunnel_service_execution">Service running, stop it before</string>
-    <string name="error_userpass_empty">Enter the username/password provided by the configuration creator</string>
-    <string name="error_vpn_sniffer_detected">Another running VPN application has been detected, stop it before</string>
-    <string name="exit">Exit</string>
-    <string name="expand_button_title">Advanced</string>
-    <string name="expired">Expired</string>
-    <string name="export_banner_lock">Ocultar Banner VPS - SSH</string>
-    <string name="export_button">Export</string>
-    <string name="export_conf">Exportar</string>
-    <string name="export_config_lock">Bloquear configuración de edición</string>
-    <string name="export_config_lock_login">Bloquear edición de inicio de sesión</string>
-    <string name="export_config_lock_settings">Configuración de bloqueo (DNS, UDP, Tethering) en la configuración</string>
-    <string name="export_file">Exportar archivo</string>
-    <string name="export_file_name">Nombre de archivo</string>
-    <string name="export_file_name_set">Establecer nombre de archivo de configuración</string>
-    <string name="export_sucess">¡Archivo exportado con éxito!</string>
-    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="common_google_play_services_enable_button">تمكين</string>
+    <string name="common_google_play_services_enable_text">"%1$s لن يعمل إلا إذا قمت بتمكين خدمات Google Play."</string>
+    <string name="common_google_play_services_enable_title">تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">"%1$s لن يعمل بدون خدمات Google Play، وهي غير موجودة على جهازك."</string>
+    <string name="common_google_play_services_install_title">الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">توفر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s يواجه مشكلة في خدمات Google Play. يرجى المحاولة مرة أخرى.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s لن يعمل بدون خدمات Google Play، والتي لا يدعمها جهازك."</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">"%1$s لن يعمل إلا إذا قمت بتحديث خدمات Google Play."</string>
+    <string name="common_google_play_services_update_title">تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s لن يعمل بدون خدمات Google Play، والتي يتم تحديثها حالياً."</string>
+    <string name="common_google_play_services_wear_update_text">مطلوب نسخة جديدة من خدمات Google Play. سيتم تحديثها قريباً.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجيل الدخول</string>
+    <string name="common_signin_button_text_long">تسجيل الدخول باستخدام Google</string>
+    <string name="compression_icon">أيقونة الضغط</string>
+    <string name="config">التهيئة</string>
+    <string name="config_deleted_expired">تم حذف التهيئة المنتهية الصلاحية</string>
+    <string name="config_expired">انتهت صلاحية التهيئة</string>
+    <string name="config_expired_message">رسالة انتهاء صلاحية التهيئة</string>
+    <string name="config_expired_title">عنوان انتهاء صلاحية التهيئة</string>
+    <string name="config_expires_in">تنتهي صلاحية التهيئة خلال %s</string>
+    <string name="config_msg">رسالة التهيئة (متوافقة مع HTML)</string>
+    <string name="config_msg_input">تعيين رسالة التهيئة</string>
+    <string name="config_validity">صلاحية التهيئة</string>
+    <string name="connected">متصل</string>
+    <string name="custom_pinger_host">مضيف مخصص للبينغ</string>
+    <string name="day">يوم</string>
+    <string name="days">أيام</string>
+    <string name="debug_icon">أيقونة التصحيح</string>
+    <string name="def_value">بروكسي HTTP (مثال: Squid,Websocket)</string>
+    <string name="delay_icon">أيقونة التأخير</string>
+    <string name="dir_home_name">الذاكرة الداخلية</string>
+    <string name="dir_name">مجلد</string>
+    <string name="direct">SSH → مباشر</string>
+    <string name="direct_sharing">مشاركة مباشرة</string>
+    <string name="disable_delay">تعطيل تأخير SSH</string>
+    <string name="disabled">معطل</string>
+    <string name="disconnected">غير متصل</string>
+    <string name="dns_forward">توجيه DNS</string>
+    <string name="dns_icon">أيقونة DNS</string>
+    <string name="dns_resolver_1">خادم DNS الأساسي</string>
+    <string name="dns_resolver_2">خادم DNS الثانوي</string>
+    <string name="dns_resolver_3">خادم DNS الثالث</string>
+    <string name="dns_resolver_4">خادم DNS الرابع</string>
+    <string name="dns_resolver_5">خادم DNS السادس</string>
+    <string name="dns_resolver_6">خادم DNS السابع</string>
+    <string name="download">تحميل</string>
+    <string name="dropdown">قائمة منسدلة</string>
+    <string name="empty_login">تسجيل الدخول الخاص بك فارغ!</string>
+    <string name="enable_tethering">تمكين الربط (بدون root)</string>
+    <string name="enable_tethering_root">تمكين الربط (root)</string>
+    <string name="erro_save_file">خطأ في حفظ ملف التهيئة!</string>
+    <string name="error_a11y_label">خطأ: غير صالح</string>
+    <string name="error_date_selected_invalid">التاريخ المحدد غير صالح</string>
+    <string name="error_decrypt_config">خطأ في فك تشفير التهيئة</string>
+    <string name="error_delete_file">فشل في حذف الملف</string>
+    <string name="error_empty_name_file">اسم الملف يجب ألا يكون فارغاً</string>
+    <string name="error_empty_payload">الحمولة لا يمكن أن تكون فارغة</string>
+    <string name="error_empty_settings">قم بالتهيئة بشكل صحيح للبدء</string>
+    <string name="error_export_settings">تعذر تصدير التهيئة</string>
+    <string name="error_file_config_incompatible">ملف غير متوافق</string>
+    <string name="error_file_invalid">ملف غير صالح</string>
+    <string name="error_file_not_found">الملف غير موجود</string>
+    <string name="error_file_settings_invalid">تهيئة غير صالحة</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="error_internet_off">يرجى الاتصال بالإنترنت</string>
+    <string name="error_invalid_settings">تهيئة غير صالحة</string>
+    <string name="error_no_supported">الوظيفة غير مدعومة على جهازك</string>
+    <string name="error_occurred">حدث خطأ</string>
+    <string name="error_permission_writer_required">مطلوب إذن الكتابة</string>
+    <string name="error_proxy_invalid">بروكسي غير صالح</string>
+    <string name="error_request_permission">تحتاج إلى الوصول إلى التخزين الخارجي</string>
+    <string name="error_root_detected">تهيئة مقفلة للأجهزة التي بها صلاحيات root</string>
+    <string name="error_save_settings">تعذر حفظ التهيئة</string>
+    <string name="error_server_ip_invalid">خادم/IP غير صالح</string>
+    <string name="error_settings_blocked">تهيئة مقفلة</string>
+    <string name="error_settings_expired">ملف منتهي الصلاحية</string>
+    <string name="error_tunnel_service_execution">الخدمة قيد التشغيل، أوقفها أولاً</string>
+    <string name="error_userpass_empty">أدخل اسم المستخدم/كلمة المرور المقدمة من منشئ التهيئة</string>
+    <string name="error_vpn_sniffer_detected">تم اكتشاف تطبيق VPN آخر قيد التشغيل، أوقفه أولاً</string>
+    <string name="exit">خروج</string>
+    <string name="expand_button_title">متقدم</string>
+    <string name="expired">منتهي الصلاحية</string>
+    <string name="export_banner_lock">إخفاء بانر VPS - SSH</string>
+    <string name="export_button">تصدير</string>
+    <string name="export_conf">تصدير</string>
+    <string name="export_config_lock">قفل تهيئة التحرير</string>
+    <string name="export_config_lock_login">قفل تحرير تسجيل الدخول</string>
+    <string name="export_config_lock_settings">تهيئة القفل (DNS, UDP, الربط) في التهيئة</string>
+    <string name="export_file">تصدير ملف</string>
+    <string name="export_file_name">اسم الملف</string>
+    <string name="export_file_name_set">تعيين اسم ملف التهيئة</string>
+    <string name="export_sucess">تم تصدير الملف بنجاح!</string>
+    <string name="exposed_dropdown_menu_content_description">إظهار القائمة المنسدلة</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="fallback_menu_item_copy_link">Copy link</string>
-    <string name="fallback_menu_item_open_in_browser">Open in browser</string>
-    <string name="fallback_menu_item_share_link">Share link</string>
-    <string name="fastest_server">Fastest Server</string>
-    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
-    <string name="file_config_incompatible">¡Archivo de configuración incompatible!</string>
-    <string name="file_validate_end">Archivo de configuración caducado</string>
-    <string name="filename_empty">El nombre del archivo no debe estar vacío</string>
-    <string name="filter">Filter</string>
-    <string name="filter_apps">Filtrar aplicaciones</string>
-    <string name="filter_bypass_mode">Modo bypass de filtro</string>
-    <string name="filter_icon">Ícono de filtro</string>
+    <string name="fallback_menu_item_copy_link">نسخ الرابط</string>
+    <string name="fallback_menu_item_open_in_browser">فتح في المتصفح</string>
+    <string name="fallback_menu_item_share_link">مشاركة الرابط</string>
+    <string name="fastest_server">أسرع خادم</string>
+    <string name="fcm_fallback_notification_channel_label">متنوع</string>
+    <string name="file_config_incompatible">ملف تهيئة غير متوافق!</string>
+    <string name="file_validate_end">ملف تهيئة منتهي الصلاحية</string>
+    <string name="filename_empty">اسم الملف لا يجب أن يكون فارغاً</string>
+    <string name="filter">تصفية</string>
+    <string name="filter_apps">تصفية التطبيقات</string>
+    <string name="filter_bypass_mode">وضع تجاوز التصفية</string>
+    <string name="filter_icon">أيقونة التصفية</string>
     <string name="firebase_database_url">https://msy-vpn-ctm-lite-default-rtdb.firebaseio.com</string>
     <string name="gcm_defaultSenderId">131371500576</string>
     <string name="google_api_key">AIzaSyC8NT8-a_hHeLqEQVCMjfgL21F3ZKtgsDs</string>
@@ -209,347 +208,346 @@
     <string name="google_crash_reporting_api_key">AIzaSyC8NT8-a_hHeLqEQVCMjfgL21F3ZKtgsDs</string>
     <string name="google_storage_bucket">msy-vpn-ctm-lite.firebasestorage.app</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="home">Home</string>
-    <string name="hostpot_error">No se puede iniciar el uso compartido de Internet (punto de acceso)</string>
-    <string name="hostpot_isOFF">Su punto de acceso parece estar deshabilitado. ¡Actívelo para compartir la VPN correctamente!</string>
-    <string name="hostpot_stop">Hostpot stop error</string>
-    <string name="hour">Hora</string>
-    <string name="hours">Horas</string>
-    <string name="http">SSH → HTTP Proxy</string>
-    <string name="icon_content_description">Dialog Icon</string>
-    <string name="import_file">Importar archivo</string>
-    <string name="import_file_error">Error al importar el archivo de configuración</string>
-    <string name="import_sucess">¡Archivo importado con éxito!</string>
-    <string name="injeting">injeting</string>
-    <string name="input_note_msg">Message/Note for users (optional)</string>
-    <string name="interstitial_reward_time">+34 minutes added!</string>
-    <string name="item_view_role_description">Tab</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="hostpot_error">لا يمكن بدء مشاركة الإنترنت (نقطة الاتصال)</string>
+    <string name="hostpot_isOFF">يبدو أن نقطة اتصالك معطلة. قم بتشغيلها لمشاركة VPN بشكل صحيح!</string>
+    <string name="hostpot_stop">خطأ في إيقاف نقطة الاتصال</string>
+    <string name="hour">ساعة</string>
+    <string name="hours">ساعات</string>
+    <string name="http">SSH → بروكسي HTTP</string>
+    <string name="icon_content_description">أيقونة الحوار</string>
+    <string name="import_file">استيراد ملف</string>
+    <string name="import_file_error">خطأ في استيراد ملف التهيئة</string>
+    <string name="import_sucess">تم استيراد الملف بنجاح!</string>
+    <string name="injeting">حقن</string>
+    <string name="input_note_msg">رسالة/ملاحظة للمستخدمين (اختياري)</string>
+    <string name="interstitial_reward_time">+34 دقيقة مضافة!</string>
+    <string name="item_view_role_description">تبويب</string>
     <string name="jsocks_version">JSocks v1.0.1: https://jsocks.sourceforge.net</string>
-    <string name="language_dialog_cancel">Cancel</string>
-    <string name="language_dialog_title">Select Language</string>
-    <string name="log_conection_lost">Connection lost</string>
-    <string name="log_server_banner">Server Message:</string>
-    <string name="log_settings_valid">File valid until: %1$s</string>
+    <string name="language_dialog_cancel">إلغاء</string>
+    <string name="language_dialog_title">اختر اللغة</string>
+    <string name="log_conection_lost">الاتصال مفقود</string>
+    <string name="log_server_banner">رسالة الخادم:</string>
+    <string name="log_settings_valid">الملف صالح حتى: %1$s</string>
     <string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
-    <string name="main_menu">Main Menu</string>
+    <string name="main_menu">القائمة الرئيسية</string>
     <string name="material_clock_display_divider">:</string>
-    <string name="material_clock_toggle_content_description">Select AM or PM</string>
-    <string name="material_hour_24h_suffix">%1$s hours</string>
-    <string name="material_hour_selection">Select hour</string>
-    <string name="material_hour_suffix">"%1$s o'clock"</string>
-    <string name="material_minute_selection">Select minutes</string>
-    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_clock_toggle_content_description">اختر AM أو PM</string>
+    <string name="material_hour_24h_suffix">%1$s ساعة</string>
+    <string name="material_hour_selection">اختر الساعة</string>
+    <string name="material_hour_suffix">"%1$s في الساعة"</string>
+    <string name="material_minute_selection">اختر الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
     <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
-    <string name="material_slider_range_end">Range end</string>
-    <string name="material_slider_range_start">Range start</string>
-    <string name="material_slider_value">Value</string>
-    <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
-    <string name="material_timepicker_hour">Hour</string>
-    <string name="material_timepicker_minute">Minute</string>
-    <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">Select time</string>
-    <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
-    <string name="max_threads">Máximo de hilos Socks</string>
-    <string name="menu">Menu</string>
-    <string name="message_permission_request">Please, it is necessary to grant the necessary permission for the application to work correctly.</string>
-    <string name="method_connection">Connection Method</string>
-    <string name="minimize">Minimize</string>
-    <string name="minute">minuto</string>
-    <string name="minutes">minutos</string>
-    <string name="mobile_info">Ejecutándose en %3$s, %1$s (%2$s), Android %5$s API, %4$d</string>
-    <string name="modal_content_descriptor">modal</string>
-    <string name="modal_inner_content_descriptor">modal inner</string>
-    <string name="modo_debug">Modo depuración</string>
-    <string name="msy_autenticando">Autenticando User..</string>
-    <string name="msy_conectado">Conectado</string>
-    <string name="msy_conectando">Conectando VPN..</string>
-    <string name="msy_desconectado">Desconectado</string>
-    <string name="msy_deteniendo">Deteniendo VPN..</string>
-    <string name="msy_error_autenticando">Usuario o Contraseña Incorrecta</string>
-    <string name="msy_esperando_red">Esperando Red..</string>
-    <string name="msy_iniciando">Iniciando VPN..</string>
-    <string name="msy_max_intentos_alcanzados">Reconexión automática apagada 🐒</string>
-    <string name="msy_reconectando">Reconectando VPN..</string>
-    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="material_slider_range_end">نهاية النطاق</string>
+    <string name="material_slider_range_start">بداية النطاق</string>
+    <string name="material_slider_value">القيمة</string>
+    <string name="material_timepicker_am">ص</string>
+    <string name="material_timepicker_clock_mode_description">التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">ساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">م</string>
+    <string name="material_timepicker_select_time">اختر الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="max_threads">الحد الأقصى لخيوط Socks</string>
+    <string name="menu">قائمة</string>
+    <string name="message_permission_request">يرجى منح الإذن اللازم لكي يعمل التطبيق بشكل صحيح.</string>
+    <string name="method_connection">طريقة الاتصال</string>
+    <string name="minimize">تصغير</string>
+    <string name="minute">دقيقة</string>
+    <string name="minutes">دقائق</string>
+    <string name="mobile_info">يعمل على %3$s, %1$s (%2$s), أندرويد %5$s API, %4$d</string>
+    <string name="modal_content_descriptor">نافذة</string>
+    <string name="modal_inner_content_descriptor">داخل النافذة</string>
+    <string name="modo_debug">وضع التصحيح</string>
+    <string name="msy_autenticando">مصادقة المستخدم..</string>
+    <string name="msy_conectado">متصل</string>
+    <string name="msy_conectando">جاري الاتصال بـ VPN..</string>
+    <string name="msy_desconectado">غير متصل</string>
+    <string name="msy_deteniendo">جاري إيقاف VPN..</string>
+    <string name="msy_error_autenticando">اسم المستخدم أو كلمة المرور غير صحيحة</string>
+    <string name="msy_esperando_red">في انتظار الشبكة..</string>
+    <string name="msy_iniciando">جاري بدء VPN..</string>
+    <string name="msy_max_intentos_alcanzados">إعادة الاتصال التلقائي معطلة 🐒</string>
+    <string name="msy_reconectando">جاري إعادة الاتصال بـ VPN..</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
-    <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">أيقونة</string>
     <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
-    <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
+    <string name="mtrl_checkbox_button_icon_path_name">مسار الأيقونة</string>
     <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
-    <string name="mtrl_checkbox_button_path_group_name">button</string>
-    <string name="mtrl_checkbox_button_path_name">button path</string>
+    <string name="mtrl_checkbox_button_path_group_name">زر</string>
+    <string name="mtrl_checkbox_button_path_name">مسار الزر</string>
     <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
-    <string name="mtrl_checkbox_state_description_checked">Checked</string>
-    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
-    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+    <string name="mtrl_checkbox_state_description_checked">محدد</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">محدد جزئياً</string>
+    <string name="mtrl_checkbox_state_description_unchecked">غير محدد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">أكثر من %1$d إشعار جديد</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
-    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
-    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
-    <string name="mtrl_picker_cancel">Cancel</string>
-    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_cancel">إلغاء</string>
+    <string name="mtrl_picker_confirm">موافق</string>
     <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
-    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
-    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
-    <string name="mtrl_picker_save">Save</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to Calendar view</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to year view</string>
-    <string name="mtrl_timepicker_cancel">Cancel</string>
-    <string name="mtrl_timepicker_confirm">OK</string>
-    <string name="name_file">File name</string>
-    <string name="native_body">Body</string>
-    <string name="native_headline">Headline</string>
-    <string name="native_media_view">Media View</string>
-    <string name="network_mobile">Mobile network</string>
-    <string name="no">No</string>
-    <string name="no_value">none</string>
-    <string name="no_vpn_support_image">Your image does not support the VPNService API, sorry :(</string>
-    <string name="not_set">Not set</string>
-    <string name="notification_content">Servidor activo</string>
-    <string name="notification_title">Compartir Internet VPN</string>
-    <string name="notifications_permission_confirm">Allow</string>
-    <string name="notifications_permission_decline">"Don't allow"</string>
-    <string name="notifications_permission_title">Allow app to send you notifications?</string>
-    <string name="nought_alwayson_warning">If you did not get a VPN confirmation dialog, you have \"Always on VPN\" enabled for another app. In that case only that app is allowed to connect to a VPN. Check under Settings-> Networks more .. -> VPNS</string>
-    <string name="offline_dialog_image_description">Icon</string>
-    <string name="offline_dialog_text">"Thanks for your interest.
-We will share more once you're back online."</string>
-    <string name="offline_notification_title">"You are back online! Let's pick up where we left off"</string>
-    <string name="offline_notification_title_with_advertiser">You are back online! Continue learning about %s</string>
-    <string name="offline_opt_in_confirm">OK</string>
-    <string name="offline_opt_in_decline">No thanks</string>
-    <string name="offline_opt_in_message">"We'll send you a notification with a link to the advertiser site."</string>
-    <string name="offline_opt_in_title">"Open ad when you're back online."</string>
-    <string name="ok">Ok</string>
-    <string name="on_wifi_zone">Prender Zona Wifi</string>
-    <string name="only_disconnected">Función disponible solo cuando está desconectado</string>
-    <string name="only_mobile_data">Solo datos móviles</string>
-    <string name="open">Open</string>
-    <string name="open_with">Open with</string>
-    <string name="pass">Contraseña SSH</string>
-    <string name="password">Password</string>
-    <string name="password_toggle_content_description">Show password</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">الانتقال إلى السنة الحالية %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">الانتقال إلى السنة %1$d</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع إدخال التقويم</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى عرض التقويم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع إدخال النص</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى عرض السنة</string>
+    <string name="mtrl_timepicker_cancel">إلغاء</string>
+    <string name="mtrl_timepicker_confirm">موافق</string>
+    <string name="name_file">اسم الملف</string>
+    <string name="native_body">محتوى</string>
+    <string name="native_headline">عنوان</string>
+    <string name="native_media_view">عرض الوسائط</string>
+    <string name="network_mobile">شبكة الجوال</string>
+    <string name="no">لا</string>
+    <string name="no_value">لا شيء</string>
+    <string name="no_vpn_support_image">صورتك لا تدعم واجهة برمجة تطبيقات VPNService، عذراً :(</string>
+    <string name="not_set">غير مضبوط</string>
+    <string name="notification_content">الخادم نشط</string>
+    <string name="notification_title">مشاركة إنترنت VPN</string>
+    <string name="notifications_permission_confirm">السماح</string>
+    <string name="notifications_permission_decline">عدم السماح</string>
+    <string name="notifications_permission_title">السماح للتطبيق بإرسال الإشعارات؟</string>
+    <string name="nought_alwayson_warning">إذا لم تحصل على مربع حوار تأكيد VPN، فلديك \"VPN دائم التشغيل\" ممكّن لتطبيق آخر. في هذه الحالة، يُسمح فقط لهذا التطبيق بالاتصال بـ VPN. تحقق تحت الإعدادات -> الشبكات والمزيد .. -> VPN</string>
+    <string name="offline_dialog_image_description">أيقونة</string>
+    <string name="offline_dialog_text">شكراً لاهتمامك. سنشارك المزيد بمجرد عودتك للاتصال.</string>
+    <string name="offline_notification_title">لقد عدت للاتصال! دعنا نكمل من حيث توقفنا</string>
+    <string name="offline_notification_title_with_advertiser">لقد عدت للاتصال! تابع التعرف على %s</string>
+    <string name="offline_opt_in_confirm">موافق</string>
+    <string name="offline_opt_in_decline">لا شكراً</string>
+    <string name="offline_opt_in_message">سنرسل لك إشعاراً يحتوي على رابط لموقع المعلن.</string>
+    <string name="offline_opt_in_title">فتح الإعلان عند عودتك للاتصال.</string>
+    <string name="ok">موافق</string>
+    <string name="on_wifi_zone">تشغيل منطقة الواي فاي</string>
+    <string name="only_disconnected">الوظيفة متاحة فقط عند عدم الاتصال</string>
+    <string name="only_mobile_data">بيانات الجوال فقط</string>
+    <string name="open">فتح</string>
+    <string name="open_with">فتح باستخدام</string>
+    <string name="pass">كلمة مرور SSH</string>
+    <string name="password">كلمة المرور</string>
+    <string name="password_toggle_content_description">إظهار كلمة المرور</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="pay_gen">Payload Generator</string>
-    <string name="payload">Payload</string>
-    <string name="payload_details">Keywords</string>
-    <string name="payload_details_msg">Currently, the following keywords are supported in the connection text: [method] [host_port] [ssh] [host] [port] [protocol] [crlf] [cr] [lf] [lfcr] [ua] [random = *;] [rotate = *;] [split] [delay_split]</string>
-    <string name="payload_locked_msg">You are not allowed to generate payload in locked config, please [Clear Settings Data] in main app menu and try again.</string>
-    <string name="permission_required">Se requieren permisos</string>
-    <string name="permissions_required">Se necesitan permisos para acceder a la galería</string>
-    <string name="permited_only_network_mobile">Configuration allowed only for mobile data network</string>
-    <string name="ping_icon">Ícono de ping</string>
-    <string name="porta_local">Puerto local</string>
-    <string name="power">Power</string>
-    <string name="project_home">Developer Home:</string>
+    <string name="pay_gen">مولد الحمولة</string>
+    <string name="payload">الحمولة</string>
+    <string name="payload_details">الكلمات المفتاحية</string>
+    <string name="payload_details_msg">حالياً، الكلمات المفتاحية التالية مدعومة في نص الاتصال: [method] [host_port] [ssh] [host] [port] [protocol] [crlf] [cr] [lf] [lfcr] [ua] [random = *;] [rotate = *;] [split] [delay_split]</string>
+    <string name="payload_locked_msg">غير مسموح لك بإنشاء حمولة في التهيئة المقفلة، يرجى [مسح بيانات الإعدادات] في القائمة الرئيسية للتطبيق والمحاولة مرة أخرى.</string>
+    <string name="permission_required">مطلوب أذونات</string>
+    <string name="permissions_required">مطلوب أذونات للوصول إلى المعرض</string>
+    <string name="permited_only_network_mobile">التهيئة مسموحة فقط لشبكة البيانات الخلوية</string>
+    <string name="ping_icon">أيقونة البينغ</string>
+    <string name="porta_local">منفذ محلي</string>
+    <string name="power">طاقة</string>
+    <string name="project_home">الصفحة الرئيسية للمطور:</string>
     <string name="project_id">msy-vpn-ctm-lite</string>
     <string name="project_urls">http://t.me/SlipkProjects</string>
-    <string name="proxy_auth">Proxy Authentication</string>
-    <string name="proxy_ip">Proxy IP/Host</string>
-    <string name="proxy_off">Internet Sharing Disabled</string>
-    <string name="proxy_on">Internet Sharing Enabled</string>
-    <string name="proxy_pass">Password</string>
-    <string name="proxy_port">Port</string>
-    <string name="proxy_remote">Remote Proxy</string>
-    <string name="proxy_server">Servidor Proxy</string>
-    <string name="proxy_started">Proxy Started</string>
-    <string name="proxy_stopped">Proxy Stoped</string>
-    <string name="proxy_user">Username</string>
-    <string name="proxypuerto">Proxy Puerto</string>
-    <string name="proxyserver">Proxy SSH</string>
-    <string name="public_key">Public Key</string>
-    <string name="recuerde_activar_zona_wifi">Remember to Activate Wifi Zone</string>
-    <string name="request_permission_ok">¡Permiso concedido!</string>
-    <string name="reset_app_config_title">¿Está seguro de que desea borrar la configuración?</string>
-    <string name="reset_app_title">¿Está seguro de que desea borrar la configuración?</string>
-    <string name="reset_app_txt">Se eliminará su configuración o la configuración de los archivos importados. La aplicación se cerrará después de borrar los datos</string>
-    <string name="reset_defaults">Restablecer</string>
-    <string name="rewarded_ad_unavailable">Rewarded ad not available</string>
-    <string name="root_required">Se requiere acceso root</string>
-    <string name="s1">Save image</string>
-    <string name="s2">Allow Ad to store image in Picture gallery?</string>
-    <string name="s3">Accept</string>
-    <string name="s4">Decline</string>
-    <string name="s5">Create calendar event</string>
-    <string name="s6">Allow Ad to create a calendar event?</string>
-    <string name="s7">Test Ad</string>
-    <string name="save">Guardar</string>
-    <string name="save_password">Save password</string>
-    <string name="search_menu_title">Search</string>
+    <string name="proxy_auth">مصادقة البروكسي</string>
+    <string name="proxy_ip">بروكسي IP/مضيف</string>
+    <string name="proxy_off">مشاركة الإنترنت معطلة</string>
+    <string name="proxy_on">مشاركة الإنترنت مفعلة</string>
+    <string name="proxy_pass">كلمة المرور</string>
+    <string name="proxy_port">منفذ</string>
+    <string name="proxy_remote">بروكسي بعيد</string>
+    <string name="proxy_server">خادم البروكسي</string>
+    <string name="proxy_started">تم بدء البروكسي</string>
+    <string name="proxy_stopped">تم إيقاف البروكسي</string>
+    <string name="proxy_user">اسم المستخدم</string>
+    <string name="proxypuerto">منفذ البروكسي</string>
+    <string name="proxyserver">بروكسي SSH</string>
+    <string name="public_key">المفتاح العام</string>
+    <string name="recuerde_activar_zona_wifi">تذكر تفعيل منطقة الواي فاي</string>
+    <string name="request_permission_ok">تم منح الإذن!</string>
+    <string name="reset_app_config_title">هل أنت متأكد من حذف التهيئة؟</string>
+    <string name="reset_app_title">هل أنت متأكد من حذف التهيئة؟</string>
+    <string name="reset_app_txt">سيتم حذف تهيئتك أو تهيئة الملفات المستوردة. سيتم إغلاق التطبيق بعد حذف البيانات</string>
+    <string name="reset_defaults">إعادة التعيين</string>
+    <string name="rewarded_ad_unavailable">إعلان مكافأة غير متاح</string>
+    <string name="root_required">مطلوب وصول root</string>
+    <string name="s1">حفظ الصورة</string>
+    <string name="s2">السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
+    <string name="s3">قبول</string>
+    <string name="s4">رفض</string>
+    <string name="s5">إنشاء حدث في التقويم</string>
+    <string name="s6">السماح للإعلان بإنشاء حدث في التقويم؟</string>
+    <string name="s7">إعلان تجريبي</string>
+    <string name="save">حفظ</string>
+    <string name="save_password">حفظ كلمة المرور</string>
+    <string name="search_menu_title">بحث</string>
     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
-    <string name="searchview_clear_text_content_description">Clear text</string>
-    <string name="searchview_navigation_content_description">Back</string>
-    <string name="second">segundo</string>
-    <string name="seconds">segundos</string>
-    <string name="select_fastest_server">Select the Fastest Server</string>
-    <string name="select_file_setting">Select the file</string>
-    <string name="select_image_desc">Seleccionar imagen</string>
-    <string name="select_video_desc">Seleccionar video</string>
-    <string name="server_started">Servidor iniciado</string>
-    <string name="server_stopped">Servidor detenido</string>
-    <string name="serverproxy">IP y puerto del proxy (Ej.: 127.0.0.1:80)</string>
-    <string name="serverssh">Servidor SSH y puerto (Ej.: 127.0.0.1:22)</string>
-    <string name="service_text">Service Text</string>
-    <string name="service_tunnel_failed">Failed to start tunnel vpn service</string>
-    <string name="service_tunnel_ssstart">Tunneling service started</string>
-    <string name="service_tunnel_starstq">Tunneling service started</string>
-    <string name="service_tunnel_start">Tunneling service started</string>
-    <string name="service_tunnel_stasart">Tunneling service started</string>
-    <string name="service_tunnel_stopping">Stopping Tunnel Service</string>
-    <string name="set_validate_date">Establecer fecha de expiracion</string>
-    <string name="settings">Settings</string>
-    <string name="settings_ImportExport">Import/Export</string>
-    <string name="settings_button_desc">Botón de configuración</string>
-    <string name="settings_export">Export Configuration</string>
-    <string name="settings_filter_title">Filtros</string>
-    <string name="settings_general_title">Configuración General</string>
-    <string name="settings_import">Import Configuration</string>
-    <string name="settings_reset">Configuración restablecida</string>
-    <string name="settings_saved">Configuración guardada</string>
-    <string name="settings_ssh">SSH Settings</string>
-    <string name="settings_ssh_title">Configuración SSH</string>
-    <string name="settings_title">Configuración</string>
-    <string name="settings_vpn_title">Configuración VPN</string>
-    <string name="share_internet">Compartir Internet</string>
-    <string name="show_license">View Licenses</string>
-    <string name="show_password">Show password</string>
-    <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+    <string name="searchview_clear_text_content_description">مسح النص</string>
+    <string name="searchview_navigation_content_description">رجوع</string>
+    <string name="second">ثانية</string>
+    <string name="seconds">ثواني</string>
+    <string name="select_fastest_server">اختر أسرع خادم</string>
+    <string name="select_file_setting">اختر الملف</string>
+    <string name="select_image_desc">اختر صورة</string>
+    <string name="select_video_desc">اختر فيديو</string>
+    <string name="server_started">تم بدء الخادم</string>
+    <string name="server_stopped">تم إيقاف الخادم</string>
+    <string name="serverproxy">IP ومنفذ البروكسي (مثال: 127.0.0.1:80)</string>
+    <string name="serverssh">خادم SSH والمنفذ (مثال: 127.0.0.1:22)</string>
+    <string name="service_text">نص الخدمة</string>
+    <string name="service_tunnel_failed">فشل بدء خدمة نفق VPN</string>
+    <string name="service_tunnel_ssstart">تم بدء خدمة النفق</string>
+    <string name="service_tunnel_starstq">تم بدء خدمة النفق</string>
+    <string name="service_tunnel_start">تم بدء خدمة النفق</string>
+    <string name="service_tunnel_stasart">تم بدء خدمة النفق</string>
+    <string name="service_tunnel_stopping">جاري إيقاف خدمة النفق</string>
+    <string name="set_validate_date">تعيين تاريخ الانتهاء</string>
+    <string name="settings">الإعدادات</string>
+    <string name="settings_ImportExport">استيراد/تصدير</string>
+    <string name="settings_button_desc">زر الإعدادات</string>
+    <string name="settings_export">تصدير التهيئة</string>
+    <string name="settings_filter_title">مرشحات</string>
+    <string name="settings_general_title">الإعدادات العامة</string>
+    <string name="settings_import">استيراد التهيئة</string>
+    <string name="settings_reset">تم إعادة تعيين الإعدادات</string>
+    <string name="settings_saved">تم حفظ الإعدادات</string>
+    <string name="settings_ssh">إعدادات SSH</string>
+    <string name="settings_ssh_title">إعدادات SSH</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_vpn_title">إعدادات VPN</string>
+    <string name="share_internet">مشاركة الإنترنت</string>
+    <string name="show_license">عرض التراخيص</string>
+    <string name="show_password">إظهار كلمة المرور</string>
+    <string name="side_sheet_accessibility_pane_title">ورقة جانبية</string>
     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
-    <string name="slowdns">Slow DNS</string>
-    <string name="slowdns_configuration">SlowDNS Settings</string>
-    <string name="slowkey">Slow Key</string>
-    <string name="slowns">Slow NS</string>
-    <string name="slsni">SSL o Sni</string>
-    <string name="sni">SNI personalizado (Ej.: web.whatsapp.com)</string>
-    <string name="speed_test">Speed Test</string>
+    <string name="slowdns">DNS بطيء</string>
+    <string name="slowdns_configuration">إعدادات SlowDNS</string>
+    <string name="slowkey">مفتاح بطيء</string>
+    <string name="slowns">NS بطيء</string>
+    <string name="slsni">SSL أو Sni</string>
+    <string name="sni">SNI مخصص (مثال: web.whatsapp.com)</string>
+    <string name="speed_test">اختبار السرعة</string>
     <string name="speed_value">40.1</string>
-    <string name="ssh_compression">Compresión SSH</string>
-    <string name="ssh_pinger_interval">Intervalo de ping (segundos)</string>
-    <string name="ssh_port">SSH Port</string>
-    <string name="ssh_server">SSH Server</string>
-    <string name="sshserver">IP o Host</string>
+    <string name="ssh_compression">ضغط SSH</string>
+    <string name="ssh_pinger_interval">فاصل البينغ (ثواني)</string>
+    <string name="ssh_port">منفذ SSH</string>
+    <string name="ssh_server">خادم SSH</string>
+    <string name="sshserver">IP أو مضيف</string>
     <string name="ssl">SSH → SSL/TLS</string>
     <string name="ssl_value">m.facebook.com</string>
     <string name="sslpayload">SSL → HTTP PAYLOAD</string>
-    <string name="sslrp">SSH → SSL/TLS Proxy</string>
-    <string name="state_add_routes">Adding routes</string>
-    <string name="state_assign_ip">Assigning IP addresses</string>
-    <string name="state_auth_pending">Waiting for Autentication</string>
-    <string name="state_get_config">Getting client configuration</string>
-    <string name="state_noprocess">Not running</string>
-    <string name="state_proxy_inject">Injecting</string>
-    <string name="state_proxy_running">Running proxy</string>
-    <string name="state_resolve">Resolving host names</string>
-    <string name="state_tcp_connect">Connecting (TCP)</string>
-    <string name="state_user_vpn_password">Waiting for user VPN password</string>
-    <string name="state_user_vpn_password_cancelled">VPN password input dialog cancelled</string>
-    <string name="state_user_vpn_permission">Waiting for user permission to use VPN API</string>
-    <string name="state_user_vpn_permission_cancelled">VPN API permission dialog cancelled</string>
-    <string name="state_wait">Waiting for server response</string>
-    <string name="state_waitconnectretry">Waiting% ss seconds between connection attempt</string>
+    <string name="sslrp">SSH → بروكسي SSL/TLS</string>
+    <string name="state_add_routes">جاري إضافة المسارات</string>
+    <string name="state_assign_ip">جاري تعيين عناوين IP</string>
+    <string name="state_auth_pending">في انتظار المصادقة</string>
+    <string name="state_get_config">جاري الحصول على تهيئة العميل</string>
+    <string name="state_noprocess">غير قيد التشغيل</string>
+    <string name="state_proxy_inject">جاري الحقن</string>
+    <string name="state_proxy_running">جاري تشغيل البروكسي</string>
+    <string name="state_resolve">جاري حل أسماء المضيفين</string>
+    <string name="state_tcp_connect">جاري الاتصال (TCP)</string>
+    <string name="state_user_vpn_password">في انتظار كلمة مرور VPN للمستخدم</string>
+    <string name="state_user_vpn_password_cancelled">تم إلغاء حوار إدخال كلمة مرور VPN</string>
+    <string name="state_user_vpn_permission">في انتظار إذن المستخدم لاستخدام واجهة برمجة تطبيقات VPN</string>
+    <string name="state_user_vpn_permission_cancelled">تم إلغاء حوار إذن واجهة برمجة تطبيقات VPN</string>
+    <string name="state_wait">في انتظار رد الخادم</string>
+    <string name="state_waitconnectretry">في انتظار %ss ثانية بين محاولات الاتصال</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="status_label">Status:</string>
-    <string name="success_clear_settings">Settings have been restored</string>
-    <string name="success_export_settings">Config exported successfully</string>
-    <string name="success_import_settings">Successfully imported config file</string>
-    <string name="summary_apps_list">Enter a package name by line. See Settings -> Apps for the package name of the apps.</string>
-    <string name="summary_auto_clear_log">If active, logs are automatically cleared.</string>
-    <string name="summary_bypass_modo">If active, traffic from the selected applications will be sent directly.</string>
+    <string name="status_label">الحالة:</string>
+    <string name="success_clear_settings">تمت استعادة الإعدادات</string>
+    <string name="success_export_settings">تم تصدير التهيئة بنجاح</string>
+    <string name="success_import_settings">تم استيراد ملف التهيئة بنجاح</string>
+    <string name="summary_apps_list">أدخل اسم الحزمة في كل سطر. انظر الإعدادات -> التطبيقات لمعرفة اسم الحزمة للتطبيقات.</string>
+    <string name="summary_auto_clear_log">إذا كان نشطاً، سيتم مسح السجلات تلقائياً.</string>
+    <string name="summary_bypass_modo">إذا كان نشطاً، سيتم إرسال حركة المرور من التطبيقات المحددة مباشرة.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_disable_delay_ssh">If active there will be no delays between requests, which can improve ping or even the speed of the connection.</string>
-    <string name="summary_dns">The DNS IP of your SlowDNS server</string>
-    <string name="summary_dns_primary">Standard (1.1.1.1)</string>
-    <string name="summary_forward_dns">If active, it redirects requests to the remote server. If not, DNS requests will be resolved by the local system.</string>
-    <string name="summary_forward_udp">If active, it redirects requests to the remote server. If not, UDP requests will not be resolved.</string>
-    <string name="summary_hide_log">If active, the log will not be shown automatically.</string>
-    <string name="summary_mode_debug">Allows you to see more advanced information in the logs.</string>
-    <string name="summary_name_server">The hostname of the SlowDNS server</string>
-    <string name="summary_number_max_threads">The greater the number of Threads, the greater the power consumption and the connection speed on your device.</string>
-    <string name="summary_private_key">"Your slowdns server's public key"</string>
-    <string name="summary_resolver_udp">Standard (7300)</string>
-    <string name="summary_tethering_subnet">"Enable it if you're having trouble sharing your device's internet."</string>
-    <string name="tethering_icon">Ícono de tethering</string>
-    <string name="tethering_info">Información de tethering:</string>
+    <string name="summary_disable_delay_ssh">إذا كان نشطاً، لن يكون هناك تأخير بين الطلبات، مما قد يحسن البينغ أو حتى سرعة الاتصال.</string>
+    <string name="summary_dns">عنوان IP لخادم DNS البطيء الخاص بك</string>
+    <string name="summary_dns_primary">قياسي (1.1.1.1)</string>
+    <string name="summary_forward_dns">إذا كان نشطاً، فإنه يعيد توجيه الطلبات إلى الخادم البعيد. إذا لم يكن، سيتم حل طلبات DNS بواسطة النظام المحلي.</string>
+    <string name="summary_forward_udp">إذا كان نشطاً، فإنه يعيد توجيه الطلبات إلى الخادم البعيد. إذا لم يكن، لن يتم حل طلبات UDP.</string>
+    <string name="summary_hide_log">إذا كان نشطاً، لن يتم عرض السجل تلقائياً.</string>
+    <string name="summary_mode_debug">يسمح لك برؤية معلومات أكثر تقدمية في السجلات.</string>
+    <string name="summary_name_server">اسم المضيف لخادم DNS البطيء</string>
+    <string name="summary_number_max_threads">كلما زاد عدد الخيوط، زاد استهلاك الطاقة وسرعة الاتصال على جهازك.</string>
+    <string name="summary_private_key">"المفتاح العام لخادم slowdns الخاص بك"</string>
+    <string name="summary_resolver_udp">قياسي (7300)</string>
+    <string name="summary_tethering_subnet">"قم بتفعيله إذا كنت تواجه مشكلة في مشاركة الإنترنت من جهازك."</string>
+    <string name="tethering_icon">أيقونة الربط</string>
+    <string name="tethering_info">معلومات الربط:</string>
     <string name="tethering_ip">IP:</string>
-    <string name="tethering_port">Puerto:</string>
-    <string name="tethering_root_enable">Tethering (root) se está ejecutando</string>
-    <string name="tethering_root_not_avaliable">Tethering (root) no está disponible en este momento :(</string>
-    <string name="tethering_root_stoppped">tethering (root) como detenido</string>
-    <string name="tethering_stopped">tethering detenido</string>
-    <string name="tethering_subnet">Subred de tethering</string>
-    <string name="third_party_software">Software de Terceiros</string>
-    <string name="time_reward_2h">2 hours</string>
-    <string name="time_reward_34m">34 minutes</string>
+    <string name="tethering_port">منفذ:</string>
+    <string name="tethering_root_enable">الربط (root) قيد التشغيل</string>
+    <string name="tethering_root_not_avaliable">الربط (root) غير متاح في هذا الوقت :(</string>
+    <string name="tethering_root_stoppped">تم إيقاف الربط (root)</string>
+    <string name="tethering_stopped">تم إيقاف الربط</string>
+    <string name="tethering_subnet">شبكة فرعية للربط</string>
+    <string name="third_party_software">برامج الطرف الثالث</string>
+    <string name="time_reward_2h">ساعتين</string>
+    <string name="time_reward_34m">34 دقيقة</string>
     <string name="timer_initial">00:00:00</string>
-    <string name="title_agradecimento_especial">Special thanks to</string>
-    <string name="title_apps_list">List of Apps</string>
-    <string name="title_auto_clear_log">Automatically Clear Logs</string>
-    <string name="title_bypass_mode">Bypass Mode</string>
-    <string name="title_delete_file">Delete File</string>
-    <string name="title_disable_delay_ssh">Disable TCP Delay</string>
-    <string name="title_dns_primary">Primary DNS</string>
-    <string name="title_extra">Extra</string>
-    <string name="title_filter_apps">Apps Filter</string>
-    <string name="title_forward_dns">Forward DNS</string>
-    <string name="title_forward_udp">Forward UDP</string>
-    <string name="title_hide_log">Hide Log on Start</string>
-    <string name="title_language">Language</string>
-    <string name="title_login_main">Login Details</string>
-    <string name="title_mode_debug">Debug mode</string>
-    <string name="title_mode_night">Night Mode (beta)</string>
-    <string name="title_name_server">Server Name</string>
-    <string name="title_number_max_threads">Maximum Number of Threads</string>
-    <string name="title_permission_request">Grant Permission</string>
-    <string name="title_ping_time">Ping (seconds)</string>
-    <string name="title_resolver_udp">UDP Gateway (Remote)</string>
-    <string name="title_security">Security/Lock</string>
-    <string name="title_tethering_subnet">Tethering Subnet (beta)</string>
-    <string name="udp_forward">Reenvío UDP</string>
-    <string name="udp_icon">Ícono de UDP</string>
-    <string name="udp_resolver">Resolvedor UDP (host:puerto)</string>
-    <string name="udpbuffer">UDP Buffer</string>
-    <string name="udpdows">DOWS ↡ SPEED</string>
-    <string name="udppass">UDP User:Pass</string>
-    <string name="udpserver">UDP Server - ip - Dominio</string>
+    <string name="title_agradecimento_especial">شكر خاص ل</string>
+    <string name="title_apps_list">قائمة التطبيقات</string>
+    <string name="title_auto_clear_log">مسح السجلات تلقائياً</string>
+    <string name="title_bypass_mode">وضع التجاوز</string>
+    <string name="title_delete_file">حذف الملف</string>
+    <string name="title_disable_delay_ssh">تعطيل تأخير TCP</string>
+    <string name="title_dns_primary">DNS الأساسي</string>
+    <string name="title_extra">إضافي</string>
+    <string name="title_filter_apps">مرشح التطبيقات</string>
+    <string name="title_forward_dns">توجيه DNS</string>
+    <string name="title_forward_udp">توجيه UDP</string>
+    <string name="title_hide_log">إخفاء السجل عند البدء</string>
+    <string name="title_language">اللغة</string>
+    <string name="title_login_main">تفاصيل تسجيل الدخول</string>
+    <string name="title_mode_debug">وضع التصحيح</string>
+    <string name="title_mode_night">الوضع الليلي (تجريبي)</string>
+    <string name="title_name_server">اسم الخادم</string>
+    <string name="title_number_max_threads">الحد الأقصى لعدد الخيوط</string>
+    <string name="title_permission_request">منح الإذن</string>
+    <string name="title_ping_time">البينغ (ثواني)</string>
+    <string name="title_resolver_udp">بوابة UDP (بعيدة)</string>
+    <string name="title_security">الأمان/القفل</string>
+    <string name="title_tethering_subnet">شبكة فرعية للربط (تجريبي)</string>
+    <string name="udp_forward">توجيه UDP</string>
+    <string name="udp_icon">أيقونة UDP</string>
+    <string name="udp_resolver">حل UDP (مضيف:منفذ)</string>
+    <string name="udpbuffer">مخزن UDP</string>
+    <string name="udpdows">تنزيل ↡ السرعة</string>
+    <string name="udppass">UDP مستخدم:كلمة مرور</string>
+    <string name="udpserver">خادم UDP - ip - نطاق</string>
     <string name="udptest">UDP → Hysteria</string>
-    <string name="udpup">UP ↟ SPEED</string>
+    <string name="udpup">رفع ↟ السرعة</string>
     <string name="udpuser">UDP Obfs</string>
-    <string name="unknown_state">Status Unknown</string>
-    <string name="upload">Upload</string>
-    <string name="usa_new_york">Servidores Ip</string>
-    <string name="user">Usuario SSH</string>
+    <string name="unknown_state">حالة غير معروفة</string>
+    <string name="upload">رفع</string>
+    <string name="usa_new_york">خوادم IP</string>
+    <string name="user">مستخدم SSH</string>
     <string name="v2ray">V2ray JSOM</string>
     <string name="v2raytest">→ V2RAY</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
-    <string name="vpn_authenticating">Authenticating User..</string>
-    <string name="vpn_connected">Connected</string>
-    <string name="vpn_connecting">Connecting VPN..</string>
-    <string name="vpn_disconnected">Disconnected</string>
-    <string name="vpn_disconnecting">Disconnecting🙄</string>
-    <string name="vpn_initiating">Starting VPN..</string>
-    <string name="vpn_reconnecting">Reconnecting VPN..</string>
-    <string name="vpn_service_failed">Failed to start VPN Service</string>
-    <string name="vpn_stopping">Stopping VPN..</string>
-    <string name="vpn_waiting_network">Waiting Network..</string>
-    <string name="wait">Wait</string>
-    <string name="wait_for_check">Please wait for the check</string>
-    <string name="watch_ad">Watch Ad</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تشغيل</string>
+    <string name="vpn_authenticating">جاري مصادقة المستخدم..</string>
+    <string name="vpn_connected">متصل</string>
+    <string name="vpn_connecting">جاري الاتصال بـ VPN..</string>
+    <string name="vpn_disconnected">غير متصل</string>
+    <string name="vpn_disconnecting">جاري قطع الاتصال🙄</string>
+    <string name="vpn_initiating">جاري بدء VPN..</string>
+    <string name="vpn_reconnecting">جاري إعادة الاتصال بـ VPN..</string>
+    <string name="vpn_service_failed">فشل بدء خدمة VPN</string>
+    <string name="vpn_stopping">جاري إيقاف VPN..</string>
+    <string name="vpn_waiting_network">في انتظار الشبكة..</string>
+    <string name="wait">انتظر</string>
+    <string name="wait_for_check">يرجى الانتظار للفحص</string>
+    <string name="watch_ad">شاهد إعلان</string>
     <string name="watermark_label_prefix">AdMob -</string>
-    <string name="wifi_tethering">WiFi Tethering</string>
-    <string name="yes">Yes</string>
+    <string name="wifi_tethering">ربط الواي فاي</string>
+    <string name="yes">نعم</string>
 </resources>
